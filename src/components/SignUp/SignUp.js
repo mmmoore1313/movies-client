@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { withRouter } from 'react-router-dom'
 
 import { signUp, signIn } from '../../api/auth'
+// importing any of our custom messages to show the user
 import messages from '../AutoDismissAlert/messages'
 
 import Form from 'react-bootstrap/Form'

@@ -1,3 +1,5 @@
+// The custom messages for our app are stored in this object. It is then
+// required and used in other files
 export default {
   signUpSuccess: 'Succesfully registered! You\'ve been signed in as well.',
   signUpFailure: 'Registration failed. Email may be taken, or passwords don\'t match.',
